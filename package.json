@@ -1,0 +1,19 @@
+{
+  "name": "hello-thunk-redis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "thina",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "thunk-redis": "^0.9.3",
+    "yargs": "^3.8.0"
+  }
+}
